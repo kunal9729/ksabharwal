@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kunal9729
+- 👋 Hi, I’m @Kunal Sabharwal
 - 👀 I’m interested in ...Software Engineering 
 - 🌱 I’m currently learning ...Advance C++ Programming 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Real life projects
 - 📫 How to reach me ...
 
 <!---
